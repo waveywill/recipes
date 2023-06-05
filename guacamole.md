@@ -1,6 +1,6 @@
 # Ingredients
-- aviocado
-- lemon
+- avocado
+- lime
 - salt
 # Instructions
 
